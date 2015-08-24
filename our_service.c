@@ -40,7 +40,11 @@
 #include "app_error.h"
 #include "SEGGER_RTT.h"
 
-
+/**@brief Function for initiating our new service.
+ *
+ * @param[in]   p_our_service        Our Service structure.
+ *
+ */
 void our_service_init(ble_os_t * p_our_service)
 {
     uint32_t   err_code; // Variable to hold return codes from library and softdevice functions
