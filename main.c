@@ -79,7 +79,9 @@ static dm_application_instance_t         m_app_handle;                          
 
 static uint16_t                          m_conn_handle = BLE_CONN_HANDLE_INVALID;   /**< Handle of the current connection. */
 
-// OUR_JOB: Declare a service structure for our application
+// OUR_JOB: Declare a ble_os_t service structure for our application
+
+// OUR_JOB: For advertising, declare a ble_uuid_t variable holding our service UUID 
                                    
 /**@brief Callback function for asserts in the SoftDevice.
  *

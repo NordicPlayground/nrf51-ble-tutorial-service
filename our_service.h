@@ -44,12 +44,12 @@
 #define BLE_UUID_OUR_SERVICE                0xABCD // Just a random, but recognizable value
 
 // This structure contains various status information for our service. 
-// The name is based on the naming convention used in Nordics SDKs. 
+// It only holds one entry now, but will be populated with more items as we go.
+// The name is based on the naming convention used in Nordic's SDKs. 
 // 'ble’ indicates that it is a Bluetooth Low Energy relevant structure and 
 // ‘os’ is short for Our Service). 
 typedef struct
 {
-    uint16_t    conn_handle;        /**< Handle of the current connection (as provided by the BLE stack, is BLE_CONN_HANDLE_INVALID if not in a connection).*/
     uint16_t    service_handle;     /**< Handle of Our Service (as provided by the BLE stack). */
 }ble_os_t;
 
