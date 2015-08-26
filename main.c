@@ -12,16 +12,16 @@
 
 /** @file
  *
- * @defgroup ble_sdk_app_template_main main.c
- * @{
- * @ingroup ble_sdk_app_template
- * @brief Template project main file.
+ * @brief BLE Services, a beginner's tutorial project main file.
  *
- * This file contains a template for creating a new application. It has the code necessary to wakeup
- * from button, advertise, get a connection restart advertising on disconnect and if no new
- * connection created go back to system-off mode.
+ * This example is meant to be used togheter with the tutorial "BLE Services, a beginner's tutorial" 
+ * found on https://devzone.nordicsemi.com/tutorials/8/ble-services-a-beginners-tutorial/.  
+ * The purpose of this tutorial is to get you started with the basics of the nRF51x22 and Bluetooth Low Energy (BLE). 
+ * More specifically this tutorial will go through the bare minimum of steps to get your first services 
+ * up and running. The tutorial is fairly superficial and is meant to be a hands-on introduction to BLE services. 
+ * It is intended to be a natural continuation of the tutorial "BLE Advertising, a beginner's tutorial".
  * It can easily be used as a starting point for creating a new application, the comments identified
- * with 'OUR_JOB' indicates where and how you can customize.
+ * with 'OUR_JOB' indicates where the work described in the tutorial needs to be done.
  */
 
 #include <stdint.h>
