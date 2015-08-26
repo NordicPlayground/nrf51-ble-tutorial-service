@@ -15,7 +15,7 @@
  * @brief BLE Services, a beginner's tutorial project main file.
  *
  * This example is meant to be used togheter with the tutorial "BLE Services, a beginner's tutorial" 
- * found on https://devzone.nordicsemi.com/tutorials/8/ble-services-a-beginners-tutorial/.  
+ * found at https://devzone.nordicsemi.com/tutorials/8/ble-services-a-beginners-tutorial/.  
  * The purpose of this tutorial is to get you started with the basics of the nRF51x22 and Bluetooth Low Energy (BLE). 
  * More specifically this tutorial will go through the bare minimum of steps to get your first services 
  * up and running. The tutorial is fairly superficial and is meant to be a hands-on introduction to BLE services. 
