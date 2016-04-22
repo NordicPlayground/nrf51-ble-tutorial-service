@@ -47,8 +47,6 @@
  */
 void our_service_init(ble_os_t * p_our_service)
 {
-    uint32_t   err_code; // Variable to hold return codes from library and softdevice functions
-    
     // STEP 3: Declare 16 bit service and 128 bit base UUIDs and add them to BLE stack table     
     
     // STEP 4: Add our service
