@@ -6,8 +6,8 @@ Requirements
 <ul><ul>
 <li>nRF52 DK Kit
 <li>Keil v5.12 or later
-<li>NRF Connect application.
-<li>nRFgo Studio
+<li>nRF Connect application.
+<li>nrfjprog
 <li>SDK v15.0.0. NOTE! This tutorial is written for SDK V15.0.0.
 <li>SoftDevice S132 V6.0.0.
 <li>Example files.
