@@ -5,7 +5,7 @@ Requirements
 
 <ul><ul>
 <li>nRF51 DK or nRF52 DK Kit
-<li>nRF51 Dongle
+# <li>nRF51 Dongle
 <li>Keil v5.12 or later
 <li>Master Control Panel (MCP). You can also use the Master Control Panel found in the nRF Toolbox app for Android or the LightBlue app for iPhone.
 <li>nRFgo Studio
