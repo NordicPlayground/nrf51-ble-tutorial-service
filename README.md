@@ -4,8 +4,8 @@ This example is meant to be used togheter with the tutorial "BLE Services, a beg
 Requirements
 
 <ul><ul>
-<li>nRF52 DK Kit
-<li>Keil v5.12 or later
+<li>nRF52 DK
+<li>Keil v5.12 or later or SEGGER Embedded Studio
 <li>nRF Connect application.
 <li>nrfjprog
 <li>SDK v15.0.0. NOTE! This tutorial is written for SDK V15.0.0.
