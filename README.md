@@ -1,11 +1,11 @@
 # nrf5-ble-tutorial-service
-This example is meant to be used togheter with the tutorial "BLE Services, a beginner's tutorial" found on https://github.com/NordicPlayground/nrf51-ble-tutorial-service/blob/master/Bluetooth%20low%20energy%20Services%2C%20a%20beginner's%20tutorial.pdf. The purpose of the tutorial is to get you started with the basics of BLE, the nRF52 DK, and the SDK. More specifically we will go through the bare minimum of steps to get your first service up and running. The tutorial is meant to be a fun way to get you started with something functional, and maybe inspire you to go further with BLE. It is also intended to be a natural continuation of the tutorial "BLE Advertising, a beginner's tutorial". Here you will not learn details of the BLE protocol, but we will have a quick look at what you should know before building a service. 
+This example is meant to be used togheter with the tutorial "BLE Services, a beginner's tutorial" found on https://devzone.nordicsemi.com/tutorials/b/bluetooth-low-energy/posts/ble-services-a-beginners-tutorial. The purpose of the tutorial is to get you started with the basics of BLE, the nRF52 DK, and the SDK. More specifically we will go through the bare minimum of steps to get your first service up and running. The tutorial is meant to be a fun way to get you started with something functional, and maybe inspire you to go further with BLE. It is also intended to be a natural continuation of the tutorial "BLE Advertising, a beginner's tutorial". Here you will not learn details of the BLE protocol, but we will have a quick look at what you should know before building a service. 
 
 Requirements
 
 <ul><ul>
-<li>nRF52 DK Kit
-<li>Keil v5.12 or later
+<li>nRF52 DK
+<li>Keil v5.12 or later or SEGGER Embedded Studio
 <li>nRF Connect application.
 <li>nrfjprog
 <li>SDK v15.0.0. NOTE! This tutorial is written for SDK V15.0.0.
